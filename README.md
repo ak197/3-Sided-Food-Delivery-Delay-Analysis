@@ -11,9 +11,12 @@ Python Scripts(Pandas, NumPy, Matplotlib), SQL, Advanced Excel
 - Courier time 38.5 min, the highest variation driver
 
 ### Files
+- `delivery_delay_analysis.py` - Python analysis: Pandas merge, NumPy logic, Matplotlib charts
 - `queries_project3.sql` - 7 SQL queries with GROUP BY, JOIN, CASE
-- `screenshots/` - 5 visualizations showing weather, kitchen, courier impact
+- `chart_q1_weather.png`, `chart_q2_kitchen.png`, `chart_q3_courier.png` - Excel charts from initial EDA
+- `chart_weather.png`, `chart_traffic.png`, `chart_experience.png` - Matplotlib charts from Python analysis
+- `delivery_analysis_results.csv` - Final dataset exported from Python
 - `Ankita_Kundu_DataAnalyst_Jun2026.pdf` - Updated resume
 
 ### Business Impact
-Findings recommend traffic-based dispatch + weather surge pricing to reduce delays.
+Findings recommend traffic-based dispatch and weather-surge pricing to reduce delays.
