@@ -3,7 +3,7 @@
 **Analyzed 25,100 orders across Customer, Restaurant, and Courier to find delivery delay drivers**
 
 ### Tech Stack
-Python Scripts(Pandas, NumPy, Matplotlib), SQL, Advanced Excel
+Excel, Python Scripts(Pandas, NumPy, Matplotlib), SQL
 
 ### Key Insights
 - Rainy + High traffic = 77 min avg delivery vs Clear + Medium = 49.9 min → 27.1 min delay spike
