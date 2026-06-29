@@ -3,11 +3,11 @@
 **Analyzed 25,100 orders across Customer, Restaurant, and Courier to find delivery delay drivers**
 
 ### Tech Stack
-SQL, Advanced Excel, Python Scripts, Pandas
+Python Scripts(Pandas, NumPy, Matplotlib), SQL, Advanced Excel
 
 ### Key Insights
 - Rainy + High traffic = 77 min avg delivery vs Clear + Medium = 49.9 min → 27.1 min delay spike
-- Kitchen timing shows only 0.6-0.8 min difference → kitchen NOT main bottleneck  
+- Kitchen timing shows only a 0.6-0.8 min difference → kitchen NOT the main bottleneck  
 - Courier time 38.5 min, the highest variation driver
 
 ### Files
