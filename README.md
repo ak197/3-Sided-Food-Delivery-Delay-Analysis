@@ -16,7 +16,7 @@ Excel, Python Scripts(Pandas, NumPy, Matplotlib), SQL
 - `chart_q1_weather.png`, `chart_q2_kitchen.png`, `chart_q3_courier.png` - Excel charts from initial EDA
 - `chart_weather.png`, `chart_traffic.png`, `chart_experience.png` - Matplotlib charts from Python analysis
 - `delivery_analysis_results.csv` - Final dataset exported from Python
-- `Ankita_Kundu_DataAnalyst_Jun2026.pdf` - Updated resume
+- `Ankita_Kundu_Data Analyst.pdf` - Updated resume
 
 ### Business Impact
 Findings recommend traffic-based dispatch and weather-surge pricing to reduce delays.
